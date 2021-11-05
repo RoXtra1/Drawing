@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\рисование\bin\Debug\Draw_Figures.exe.config
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\рисование\bin\Debug\Draw_Figures.exe
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\рисование\bin\Debug\Draw_Figures.pdb
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\рисование\obj\Debug\Draw_Figures.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\рисование\obj\Debug\Draw_Figures.MainForm.resources
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\рисование\obj\Debug\Draw_Figures.Properties.Resources.resources
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\рисование\obj\Debug\Draw_Figures.csproj.GenerateResource.cache
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\рисование\obj\Debug\Draw_Figures.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\рисование\obj\Debug\Draw_Figures.exe
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\рисование\obj\Debug\Draw_Figures.pdb
